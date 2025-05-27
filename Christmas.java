@@ -1,18 +1,3 @@
-// public class Christmas {
-//     public static void main(String[] args) {
-//         int star, space;
-//         space=0;
-//         for(int i=1; i<=4*3; i++)
-//         {
-//             for (int j=1; j<=; j++)
-//             {
-
-//             }
-//         }
-//     }
-    
-// }
-
 public class Christmas {
 
     public static void main(String[] args) {
